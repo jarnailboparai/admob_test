@@ -1,0 +1,39 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "framework": {
+            "StoreKit.framework": {
+                "false": 1
+            },
+            "AudioToolbox.framework": {
+                "false": 1
+            },
+            "MessageUI.framework": {
+                "false": 1
+            },
+            "SystemConfiguration.framework": {
+                "false": 1
+            },
+            "CoreGraphics.framework": {
+                "false": 1
+            },
+            "AdSupport.framework": {
+                "false": 1
+            }
+        },
+        "config.xml": {
+            "/*": {
+                "<feature name=\"AdMob\"><param name=\"ios-package\" value=\"CDVAdMob\" /></feature>": 1
+            }
+        }
+    },
+    "installed_plugins": {
+        "com.rjfun.cordova.plugin.admob": {
+            "PACKAGE_NAME": "com.softobiz.rag"
+        }
+    },
+    "dependent_plugins": {}
+}

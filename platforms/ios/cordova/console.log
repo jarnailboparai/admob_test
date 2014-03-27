@@ -1,0 +1,79 @@
+2014-03-27 12:29:43.308 Raghav[1475:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-27 12:29:43.314 Raghav[1475:70b] Unlimited access to network resources
+2014-03-27 12:29:43.530 Raghav[1475:70b] Resetting plugins due to page load.
+2014-03-27 12:29:43.572 Raghav[1475:70b] Finished load of: file:///Users/gauravmurghai/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/D5B3EE7C-EF63-4EB0-B63E-82B560DEFC63/Raghav.app/www/index.html
+2014-03-27 12:41:50.747 Raghav[1987:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-27 12:41:50.784 Raghav[1987:70b] Unlimited access to network resources
+2014-03-27 12:41:51.272 Raghav[1987:70b] Resetting plugins due to page load.
+2014-03-27 12:41:52.037 Raghav[1987:70b] Finished load of: file:///Users/gauravmurghai/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CAFDFE50-15FB-404A-80FD-130D986F7E4B/Raghav.app/www/index.html
+2014-03-27 12:49:06.778 Raghav[2069:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-27 12:49:06.785 Raghav[2069:70b] Unlimited access to network resources
+2014-03-27 12:49:07.333 Raghav[2069:70b] Resetting plugins due to page load.
+2014-03-27 12:53:11.535 Raghav[2314:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-27 12:53:11.545 Raghav[2314:70b] Unlimited access to network resources
+2014-03-27 12:53:11.660 Raghav[2314:70b] Resetting plugins due to page load.
+2014-03-27 12:54:10.554 Raghav[2314:4103] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-03-27 12:54:10.568 Raghav[2314:70b] Finished load of: file:///Users/gauravmurghai/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CAFDFE50-15FB-404A-80FD-130D986F7E4B/Raghav.app/www/index.html
+2014-03-27 12:59:42.236 Raghav[2571:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-27 12:59:42.260 Raghav[2571:70b] Unlimited access to network resources
+2014-03-27 12:59:42.369 Raghav[2571:70b] Resetting plugins due to page load.
+2014-03-27 12:59:42.459 Raghav[2571:70b] Finished load of: file:///Users/gauravmurghai/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CAFDFE50-15FB-404A-80FD-130D986F7E4B/Raghav.app/www/index.html
+2014-03-27 13:12:11.592 Raghav[2744:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-27 13:12:11.602 Raghav[2744:70b] Unlimited access to network resources
+2014-03-27 13:12:11.715 Raghav[2744:70b] Resetting plugins due to page load.
+2014-03-27 13:12:11.793 Raghav[2744:70b] Finished load of: file:///Users/gauravmurghai/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CAFDFE50-15FB-404A-80FD-130D986F7E4B/Raghav.app/www/index.html
+2014-03-27 13:15:07.215 Raghav[2829:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-27 13:15:07.221 Raghav[2829:70b] Unlimited access to network resources
+2014-03-27 13:15:07.253 Raghav[2829:70b] Resetting plugins due to page load.
+2014-03-27 13:15:07.294 Raghav[2829:70b] Finished load of: file:///Users/gauravmurghai/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CAFDFE50-15FB-404A-80FD-130D986F7E4B/Raghav.app/www/index.html
+2014-03-27 13:16:21.104 Raghav[2936:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-27 13:16:21.114 Raghav[2936:70b] Unlimited access to network resources
+2014-03-27 13:16:21.235 Raghav[2936:70b] Resetting plugins due to page load.
+2014-03-27 13:16:21.305 Raghav[2936:70b] Finished load of: file:///Users/gauravmurghai/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CAFDFE50-15FB-404A-80FD-130D986F7E4B/Raghav.app/www/index.html
+2014-03-27 13:17:35.475 Raghav[3066:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-27 13:17:35.499 Raghav[3066:70b] Unlimited access to network resources
+2014-03-27 13:17:35.531 Raghav[3066:70b] Resetting plugins due to page load.
+2014-03-27 13:18:06.361 Raghav[3169:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-27 13:18:06.371 Raghav[3169:70b] Unlimited access to network resources
+2014-03-27 13:18:06.488 Raghav[3169:70b] Resetting plugins due to page load.
+2014-03-27 13:18:16.604 Raghav[3169:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-03-27 13:18:16.618 Raghav[3169:70b] Finished load of: file:///Users/gauravmurghai/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CAFDFE50-15FB-404A-80FD-130D986F7E4B/Raghav.app/www/index.html
+2014-03-27 13:21:42.364 Raghav[3341:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-27 13:21:42.374 Raghav[3341:70b] Unlimited access to network resources
+2014-03-27 13:21:42.506 Raghav[3341:70b] Resetting plugins due to page load.
+2014-03-27 13:21:42.573 Raghav[3341:70b] Finished load of: file:///Users/gauravmurghai/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CAFDFE50-15FB-404A-80FD-130D986F7E4B/Raghav.app/www/index.html
+2014-03-27 13:21:42.769 Raghav[3341:70b] THREAD WARNING: ['AdMob'] took '10.650146' ms. Plugin should use a background thread.
+2014-03-27 13:21:42.770 Raghav[3341:70b] <Google> To get test ads on this device, call: request.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil];
+2014-03-27 13:21:44.501 Raghav[3341:70b] <Google:HTML> Google Mobile Ads SDK: You are currently using 6.5.0 of the SDK. A new version, 6.8.0, is available at http://goo.gl/Zc0BYt . Please consider updating your SDK to get the latest features and bug fixes
+2014-03-27 13:21:44.561 Raghav[3341:70b] -[CDVAdMob adView:didFailToReceiveAdWithError:]: Failed to receive ad with error: Request Error: No ad to show.
+2014-03-27 13:26:00.682 Raghav[3428:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-27 13:26:00.709 Raghav[3428:70b] Unlimited access to network resources
+2014-03-27 13:26:00.785 Raghav[3428:70b] Resetting plugins due to page load.
+2014-03-27 13:26:00.892 Raghav[3428:70b] Finished load of: file:///Users/gauravmurghai/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CAFDFE50-15FB-404A-80FD-130D986F7E4B/Raghav.app/www/index.html
+2014-03-27 13:26:00.915 Raghav[3428:70b] <Google> To get test ads on this device, call: request.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil];
+2014-03-27 13:26:01.108 Raghav[3428:70b] <Google:HTML> Google Mobile Ads SDK: You are currently using 6.5.0 of the SDK. A new version, 6.8.0, is available at http://goo.gl/Zc0BYt . Please consider updating your SDK to get the latest features and bug fixes
+2014-03-27 13:26:01.284 Raghav[3428:70b] -[CDVAdMob adView:didFailToReceiveAdWithError:]: Failed to receive ad with error: Request Error: No ad to show.
+2014-03-27 13:26:24.193 Raghav[3510:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-27 13:26:24.215 Raghav[3510:70b] Unlimited access to network resources
+2014-03-27 13:26:24.320 Raghav[3510:70b] Resetting plugins due to page load.
+2014-03-27 13:26:24.451 Raghav[3510:70b] Finished load of: file:///Users/gauravmurghai/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CAFDFE50-15FB-404A-80FD-130D986F7E4B/Raghav.app/www/index.html
+2014-03-27 13:26:24.468 Raghav[3510:70b] <Google> To get test ads on this device, call: request.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil];
+2014-03-27 13:26:24.541 Raghav[3510:70b] THREAD WARNING: ['AdMob'] took '72.909912' ms. Plugin should use a background thread.
+2014-03-27 13:26:24.675 Raghav[3510:70b] <Google:HTML> Google Mobile Ads SDK: You are currently using 6.5.0 of the SDK. A new version, 6.8.0, is available at http://goo.gl/Zc0BYt . Please consider updating your SDK to get the latest features and bug fixes
+2014-03-27 13:26:24.859 Raghav[3510:70b] -[CDVAdMob adView:didFailToReceiveAdWithError:]: Failed to receive ad with error: Request Error: No ad to show.
+2014-03-27 13:28:19.406 Raghav[3763:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-27 13:28:19.424 Raghav[3763:70b] Unlimited access to network resources
+2014-03-27 13:28:19.529 Raghav[3763:70b] Resetting plugins due to page load.
+2014-03-27 13:28:19.919 Raghav[3763:70b] Finished load of: file:///Users/gauravmurghai/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CAFDFE50-15FB-404A-80FD-130D986F7E4B/Raghav.app/www/index.html
+2014-03-27 13:28:19.946 Raghav[3763:70b] <Google> To get test ads on this device, call: request.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil];
+2014-03-27 13:28:20.406 Raghav[3763:70b] THREAD WARNING: ['AdMob'] took '460.278076' ms. Plugin should use a background thread.
+2014-03-27 13:28:20.543 Raghav[3763:70b] <Google:HTML> Google Mobile Ads SDK: You are currently using 6.5.0 of the SDK. A new version, 6.8.0, is available at http://goo.gl/Zc0BYt . Please consider updating your SDK to get the latest features and bug fixes
+2014-03-27 13:28:27.174 Raghav[3763:70b] -[CDVAdMob adViewDidReceiveAd:]: Received ad successfully.
+2014-03-27 14:06:04.751 Raghav[5293:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-27 14:06:04.797 Raghav[5293:70b] Unlimited access to network resources
+2014-03-27 14:06:05.158 Raghav[5293:70b] Resetting plugins due to page load.
+2014-03-27 14:06:05.339 Raghav[5293:70b] Finished load of: file:///Users/gauravmurghai/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CAFDFE50-15FB-404A-80FD-130D986F7E4B/Raghav.app/www/index.html
+2014-03-27 14:06:05.395 Raghav[5293:70b] <Google> To get test ads on this device, call: request.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil];
+2014-03-27 14:06:05.537 Raghav[5293:70b] THREAD WARNING: ['AdMob'] took '141.923828' ms. Plugin should use a background thread.
+2014-03-27 14:06:05.707 Raghav[5293:70b] <Google:HTML> Google Mobile Ads SDK: You are currently using 6.5.0 of the SDK. A new version, 6.8.0, is available at http://goo.gl/Zc0BYt . Please consider updating your SDK to get the latest features and bug fixes
+2014-03-27 14:06:07.922 Raghav[5293:70b] -[CDVAdMob adViewDidReceiveAd:]: Received ad successfully.
